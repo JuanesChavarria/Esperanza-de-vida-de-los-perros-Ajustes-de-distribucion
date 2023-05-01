@@ -1,8 +1,9 @@
-#Análisis de longevidad en perros de raza: Un enfoque en la probabilidad de fallo inmediato
+# Análisis de longevidad en perros de raza: Un enfoque en la probabilidad de fallo inmediato
 
 Juan Esteban Chavarría
 Jonathan Zapata
 
+# Resumen
 En este trabajo se pretende ajustar diferentes funciones de distribución acumulativa a los tiempos de vida de una base de datos de perros domésticos, 
 agrupados según su sexo, tamaño y raza. La principal herramienta utilizada para este fin es el software matlab, que permite acceder a diversas funciones 
 incluidas en el entorno que ofrece. Como herramienta secundaria se utiliza python, que a través de la librería scipy también permite acceder a diversas 
