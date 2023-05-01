@@ -1,6 +1,7 @@
 # Análisis de longevidad en perros de raza: Un enfoque en la probabilidad de fallo inmediato
 
 Juan Esteban Chavarría
+
 Jonathan Zapata
 
 # Resumen
